@@ -13,7 +13,8 @@ O projeto consiste em um datalogger capaz de realizar amostragens em alta frequÃ
 ### ðŸ”Œ Hardware Representativo
 | ESP32 DevKit V1 | Sensor Indutivo (Exemplo) |
 | :---: | :---: |
-| <img src="http://googleusercontent.com/image_collection/image_retrieval/13179462552155900217_0" width="250px"> | <img src="http://googleusercontent.com/image_collection/image_retrieval/3643492005453445754_0" width="250px"> |
+| <img width="245" height="252" alt="image" src="https://github.com/user-attachments/assets/8d16bf6f-8cfd-4699-a30e-7c257a5ae799" /> | <img width="245" height="279" alt="image" src="https://github.com/user-attachments/assets/09c6b7eb-0c3a-49c3-9d4b-cf074a772fe0" /> |
+
 
 ---
 
