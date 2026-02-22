@@ -2,7 +2,7 @@
 
 # Projeto Datalogger de Alta Frequência com ESP32
 
-![Status: Em Desenvolvimento](https://img.shields.io/badge/status-em_desenvolvimento-yellow.svg)
+![Status: Concluído](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
 Este repositório contém o firmware para um sistema de aquisição de dados (datalogger) de alta velocidade, baseado na plataforma ESP32. O objetivo é realizar ensaios de 20 segundos a uma frequência de 3 kHz, armazenando os dados em um buffer interno e transferindo-os via Wi-Fi para um PC para análise posterior.
 
